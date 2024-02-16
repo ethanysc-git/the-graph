@@ -32,6 +32,7 @@
     price
   }
 }
+//Added
 {
   itemActives(first: 5) {
     id
@@ -42,4 +43,5 @@
     price
   }
 }
+
 ```
